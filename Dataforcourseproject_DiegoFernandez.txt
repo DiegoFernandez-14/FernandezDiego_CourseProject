@@ -1,0 +1,55 @@
+Location	Year	Month	NH4-N (mg L-1)	NOx (mg L-1)	OrthoP (æg L-1)	Total P (ug L-1)	TKN (mg L-1)	
+Pipe Outflow (Beck et al., 2022)	2021	April	210	0.004	140 mg L-1	140 mg L-1	TN: 220	
+Piney Point Reservoir	2021	October	27.02 (3.8)	-	7698.43 (1054.27)	15527.19 (902.16)	24.78 (4.27)	
+Piney Point	2021	April	0.1 (0.02)	-	274.01 (195.8)	319.06 (219.99)	ND	
+Piney Point	2021	May	0.1	-	68.16	319.06	ND	
+Piney Point	2021	June	0.14 (0)	-	50.16 (5.23)	82.55 (13.55)	0.23 (0.04)	
+Piney Point	2021	July	0.14	-	60.85 (0.6)	87.01 (3.25)	0.41 (0.04)	
+Piney Point	2021	August	0.08	-	67.78 (4.27)	80.33 (2.71)	1.37 (1.26)	
+Piney Point	2021	September	-	-	58.79 (0.18)	83.49 (5.07)	0.64 (0.15)	
+Piney Point	2021	October	-	-	55.87 (2.88)	79.08 (3.97)	0.28 (0.03)	
+Piney Point	2021	November	-	-	44.65	79.08	0.4	
+Piney Point	2021	December	-	-	44.31 (2.43)	63.59 (18.03)	1.36 (1.53)	
+Piney Point	2022	January	0.16	-	35.22 (1.61)	50.84 (1.73)	0.22 (0.04)	
+Piney Point	2022	February	0.09	-	29.17 (3.24)	38.98 (3.71)	0.35 (0.01)	
+Piney Point	2022	March	-	-	30.5 (5.13)	54.55 (10.3)	0.33 (0.02)	
+Piney Point	2022	April	-	-	35.68	54.55	0.42	
+Bishop Harbor	2021	April	0.08 (0.02)	-	188.64 (83.6)	232.99 (91.22)	ND	
+Bishop Harbor	2021	May	0.08	-	63.7	232.99	ND	
+Bishop Harbor	2021	June	0.14	-	43.18 (0.55)	73.1 (9.91)	0.31	
+Bishop Harbor	2021	July	0.14	-	71.77 (22.49)	101.83 (30.99)	0.55 (0.03)	
+Bishop Harbor	2021	August	0.09	-	135.65 (44.43)	167.02 (44.54)	0.8 (0.29)	
+Bishop Harbor	2021	September	-	-	64.74 (15.33)	90.9 (32.87)	0.56 (0.04)	
+Bishop Harbor	2021	October	-	-	86.78 (0.23)	136.07 (5.64)	0.39 (0.09)	
+Bishop Harbor	2021	November	-	-	52.1	136.07	0.41	
+Bishop Harbor	2021	December	-	-	46.22 (12.79)	63.62 (5.08)	0.29 (0.02)	
+Bishop Harbor	2022	January	0.16	-	34.01 (2.76)	46.78 (2.98)	0.22 (0.04)	
+Bishop Harbor	2022	February	0.13	-	29.27 (2.61)	43.37 (0.98)	0.31 (0.06)	
+Bishop Harbor	2022	March	-	-	30.34 (3.64)	55.19 (1.69)	0.3 (0)	
+Bishop Harbor	2022	April	-	-	31.82	55.19	0.42	
+Joe Bay	2021	April	0.09 (0.01)	-	107.33 (27.33)	204.24 (39.77)	ND	
+Joe Bay	2021	May	0.09	-	57.2 (9.57)	127.45 (36.48)	ND	
+Joe Bay	2021	June	0.17	-	46.82 (14.58)	110.36 (35.23)	0.2	
+Joe Bay	2021	July	0.14	-	66.05 (15.35)	114.09 (29.67)	0.57 (0.19)	
+Joe Bay	2021	August	0.08	-	91.15 (0.62)	124.91 (10.83)	0.71 (0.09)	
+Joe Bay	2021	September	-	-	68.33 (2.82)	113.66 (23.39)	0.67 (0.07)	
+Joe Bay	2021	October	-	-	72.67 (10.87)	139.86 (1.68)	0.51 (0.24)	
+Joe Bay	2021	November	-	-	59.84	139.86	0.52	
+Joe Bay	2021	December	-	-	63.23 (20.25)	96.4 (40.93)	0.43 (0.01)	
+Joe Bay	2022	January	0.08 (0.01)	-	40.45 (0.16)	62.97 (9.62)	0.25 (0.04)	
+Joe Bay	2022	February	0.08	-	37.28 (1.26)	57.53 (7.09)	0.36 (0.07)	
+Joe Bay	2022	March	-	-	49.41 (6.88)	134.83 (33.84)	0.75 (0.41)	
+Joe Bay	2022	April	-	-	38.53	134.83	0.44	
+St. Joseph Sound	2021	April	0.1 (0.01)	-	7.91 (10.3)	11.38 (3.46)	ND	
+St. Joseph Sound	2021	May	0.1	-	4.47 (1.56)	8.76 (1.21)	ND	
+St. Joseph Sound	2021	June	0.09 (0.04)	-	3.06 (0.65)	11.42 (1.88)	0.46 (0.13)	
+St. Joseph Sound	2021	July	0.08 (0.01)	-	4.62 (1.57)	16.56 (3.64)	0.64 (0.13)	
+St. Joseph Sound	2021	August	0.09 (0.03)	-	3.67 (2.18)	26.15 (19.86)	0.64 (0.26)	
+St. Joseph Sound	2021	September	0.09	-	3.33 (1.36)	14.63 (1.79)	0.52 (0.23)	
+St. Joseph Sound	2021	October	-	-	2.64	14.43 (1.4)	0.4	
+St. Joseph Sound	2021	November	-	-	2.63	14.43	0.47	
+St. Joseph Sound	2021	December	-	-	5.26 (1.32)	10.74 (7.29)	0.3 (0.01)	
+St. Joseph Sound	2022	January	0.17	-	5.82 (0.3)	11.89 (2.72)	0.25 (0.04)	
+St. Joseph Sound	2022	February	-	-	5.25	7.57 (1.33)	0.36 (0.04)	
+St. Joseph Sound	2022	March	-	-	4	13.71 (1.03)	0.3 (0.04)	
+St. Joseph Sound	2022	April	-	-	3.29	13.71	0.47	
